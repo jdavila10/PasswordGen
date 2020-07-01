@@ -1,4 +1,7 @@
-# PasswordGen
+
+**Version 1.0**
+
+Homework #3
 A Password Generator site using js
 
 Contributors
